@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mycodes\\laboratory4Git\\structures\\",
+  "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u04304\\structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\karina_2block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:karina_2block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\block2nazariy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\block2nazariy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:block2nazariy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\inputexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:inputexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\block2_andrii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\block2_andrii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:block2_andrii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\inputexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:inputexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\\u043B\u0430\u0431\u04304\\structures\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,88 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Block2Nazariy.cs",
-              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Block2Nazariy.cs",
-              "RelativeDocumentMoniker": "Block2Nazariy.cs",
-              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\Block2Nazariy.cs",
-              "RelativeToolTip": "Block2Nazariy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:29:39.822Z",
+              "WhenOpened": "2024-05-01T15:41:09.501Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:41:12.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Title": "karina_2block.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\karina_2block.cs",
+              "RelativeDocumentMoniker": "karina_2block.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\karina_2block.cs",
+              "RelativeToolTip": "karina_2block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:23:49.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Block2_Andrii.cs",
-              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Block2_Andrii.cs",
-              "RelativeDocumentMoniker": "Block2_Andrii.cs",
-              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\Block2_Andrii.cs",
-              "RelativeToolTip": "Block2_Andrii.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:23:47.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputExecute.cs",
-              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\InputExecute.cs",
-              "RelativeDocumentMoniker": "InputExecute.cs",
-              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\InputExecute.cs",
-              "RelativeToolTip": "InputExecute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:23:46.677Z",
+              "WhenOpened": "2024-05-01T15:41:07.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "InputExecute.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\InputExecute.cs",
+              "RelativeDocumentMoniker": "InputExecute.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\InputExecute.cs",
+              "RelativeToolTip": "InputExecute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:23:23.466Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1498,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "WhenOpened": "2024-05-01T15:41:06.633Z"
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Block2_Andrii.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\Block2_Andrii.cs",
+              "RelativeDocumentMoniker": "Block2_Andrii.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\Block2_Andrii.cs",
+              "RelativeToolTip": "Block2_Andrii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:41:04.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block2Nazariy.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u04304\\structures\\Block2Nazariy.cs",
+              "RelativeDocumentMoniker": "Block2Nazariy.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u04304\\structures\\Block2Nazariy.cs",
+              "RelativeToolTip": "Block2Nazariy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:40:46.943Z",
+              "EditorCaption": ""
             }
           ]
         }
