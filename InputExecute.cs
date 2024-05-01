@@ -7,7 +7,7 @@ namespace ExecuteInput
     {
         public static List<Student> ReadData(string fileName)
         {
-            FileStream input;
+            FileStream input=null;
             List<Student> list = [];
             try
             {
@@ -16,6 +16,7 @@ namespace ExecuteInput
             catch (IOException e)
             {
                 Console.WriteLine("Неможливо відкрити файл: \n" + e.Message);
+                input.Close();
                 return list;
             }
             StreamReader sReader = new(input);
@@ -30,7 +31,7 @@ namespace ExecuteInput
             {
                 Console.WriteLine("Неможливо прочитати файл: \n" + e.Message);
             }
-
+            input.Close();
             return list;
 
         }
