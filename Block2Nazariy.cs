@@ -7,9 +7,9 @@ using struct_lab_student;
 
 namespace Block2Nazariy
 {
-    class Program
+    class NazariyBlock
     {
-        static void Var8(List<Student> studs)
+        public static void Var8(List<Student> studs)
         {
             for (int i = 0; i < studs.Count; i++)
             {
