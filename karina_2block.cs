@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Globalization;
+using struct_lab_student;
 
 namespace Karina2Block
 {
