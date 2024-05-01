@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\mycodes\\laboratory4Git\\structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\block2nazariy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:block2nazariy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\karina_2block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:karina_2block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70F6B909-5EA9-4AF7-82E1-49CBB7EFAB4D}|laboratory4Git.csproj|d:\\mycodes\\laboratory4git\\structures\\inputexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "karina_2block.cs",
+              "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\karina_2block.cs",
+              "RelativeDocumentMoniker": "karina_2block.cs",
+              "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\karina_2block.cs",
+              "RelativeToolTip": "karina_2block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:02:02.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Block2Nazariy.cs",
               "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Block2Nazariy.cs",
               "RelativeDocumentMoniker": "Block2Nazariy.cs",
@@ -55,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\mycodes\\laboratory4Git\\structures\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T17:23:49.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Block2_Andrii.cs",
               "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Block2_Andrii.cs",
               "RelativeDocumentMoniker": "Block2_Andrii.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InputExecute.cs",
               "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\InputExecute.cs",
               "RelativeDocumentMoniker": "InputExecute.cs",
@@ -88,12 +105,11 @@
               "RelativeToolTip": "InputExecute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T17:23:46.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T17:23:46.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\mycodes\\laboratory4Git\\structures\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
