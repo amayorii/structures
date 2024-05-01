@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using struct_lab_student;
 using Block2Nazariy;
+using Karina2Block;
 
 namespace Menushka
 {
