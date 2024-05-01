@@ -9,10 +9,9 @@ using struct_lab_student;
 
 namespace Karina2Block
 {
-    partial class Program
+    partial class Block2_Karina
     {
-       
-        static void Block2_22(List<Student>list)
+       public static void Block2_22(List<Student>list)
         {
             DateTime localDate = DateTime.Now.Date;
             for(int i = 0; i < list.Count; i++)
