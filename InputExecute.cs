@@ -25,9 +25,15 @@ namespace ExecuteInput
             {
                 while (!sReader.EndOfStream)
                 {
-                    Student student = new Student(sReader.ReadLine());
-                    Zodiac.WhatZodiac(student);
-                    list.Add(student);
+                    string s = null;
+                    try
+                    {
+                        s = sReader.ReadLine();
+                        Student student = new Student(s);
+                        Zodiac.WhatZodiac(student);
+                        list.Add(student);
+                    }
+                    catch(Exception e) { Console.WriteLine($"Ми не змогли прочитать дані про студента з рядка {s}"); }
                 }
             }
             catch (Exception e)
