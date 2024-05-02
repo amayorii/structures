@@ -1,5 +1,6 @@
 using System;
 using struct_lab_student;
+using Zodiacs;
 
 namespace ExecuteInput
 {
@@ -8,7 +9,7 @@ namespace ExecuteInput
         public static List<Student> ReadData(string fileName)
         {
             FileStream input=null;
-            List<Student> list = [];
+            List<Student> list = new List<Student>();
             try
             {
                 input = new FileStream(fileName, FileMode.Open);
@@ -19,12 +20,14 @@ namespace ExecuteInput
                 input.Close();
                 return list;
             }
-            StreamReader sReader = new(input);
+            StreamReader sReader = new StreamReader(input);
             try
             {
                 while (!sReader.EndOfStream)
                 {
-                    list.Add(new Student(sReader.ReadLine()));
+                    Student student = new Student(sReader.ReadLine());
+                    Zodiac.WhatZodiac(student);
+                    list.Add(student);
                 }
             }
             catch (Exception e)

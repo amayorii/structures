@@ -18,7 +18,7 @@ namespace struct_lab_student
 
         public Student(string lineWithAllData)
         {
-            string[] data = lineWithAllData.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string[] data = lineWithAllData.Split(new char[] {' ', '\t'}, StringSplitOptions.RemoveEmptyEntries);
             surName = data[0]; firstName = data[1]; patronymic = data[2];
             sex = data[3][0];
             dateOfBirth = data[4];
