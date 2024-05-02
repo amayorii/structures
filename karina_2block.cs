@@ -17,17 +17,25 @@ namespace Karina2Block
             for(int i = 0; i < list.Count; i++)
             {
                 DateTime birth = DateTime.ParseExact(list[i].dateOfBirth, "dd.MM.yyyy", CultureInfo.InvariantCulture);
-                int diffOfYears = (localDate.Year- birth.Year);
-                if (localDate.Month <= birth.Month && localDate.Day < birth.Day) diffOfYears--;
-                if (diffOfYears < 18 && (list[i].mathematicsMark=='2'|| list[i].mathematicsMark == '-'|| list[i].physicsMark == '2'|| list[i].physicsMark == '-'|| list[i].informaticsMark == '2' || list[i].informaticsMark == '2'))
-                {
-                    Console.WriteLine();
-                    Console.WriteLine($"Surname: {list[i].surName}");
-                    Console.WriteLine($"Name: {list[i].firstName}");
-                    Console.WriteLine($"Date of Birth: {list[i].dateOfBirth}");
-                    Console.WriteLine();
-                }
+                DateTime date18years = birth.AddYears(18);
+                //int diffOfYears = (localDate.Year- birth.Year);
+                //if (localDate.Month < birth.Month)
+                //{
+                //    diffOfYears--;
+                //}
+                //else if (localDate.Month == birth.Month&&localDate.Day < birth.Day)
+                //{
+                //    diffOfYears--;
+                //}
+            if (localDate < date18years && (list[i].mathematicsMark == '2' || list[i].mathematicsMark == '-' || list[i].physicsMark == '2' || list[i].physicsMark == '-' || list[i].informaticsMark == '2' || list[i].informaticsMark == '2'))
+            {
+                Console.WriteLine();
+                Console.WriteLine($"Surname: {list[i].surName}");
+                Console.WriteLine($"Name: {list[i].firstName}");
+                Console.WriteLine($"Date of Birth: {list[i].dateOfBirth}");
+                Console.WriteLine();
             }
+        }
             
         }
        
