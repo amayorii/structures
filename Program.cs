@@ -47,6 +47,7 @@ namespace Menushka
         }
         static void SelectStudent(string name)
         {
+            ClearingZodiacs();
             switch (name)
             {
                 case "Andrii":
@@ -59,6 +60,24 @@ namespace Menushka
                     Block2_Karina.Block2_22(Input.ReadData("Input.txt"));
                     break;
 
+            }
+        }
+        static void ClearingZodiacs()
+        {
+            Directory.SetCurrentDirectory(Path.GetDirectoryName(Path.GetFullPath("data_*.txt")));
+            Console.WriteLine("Do you want to clear already existing zodiacs? (y/n)");
+            string answer = Console.ReadLine();
+            switch (answer)
+            {
+                case "y":
+                    string[] directoryFiles = Directory.GetFiles(Path.GetDirectoryName(Path.GetFullPath("data_*.txt")), "data_*.txt");
+                    foreach (string directoryFile in directoryFiles)
+                    {
+                        File.Delete(directoryFile);
+                    }
+                    break;
+                default:
+                    break;
             }
         }
     }
